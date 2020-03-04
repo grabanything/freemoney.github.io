@@ -1,2 +1,0 @@
-# freemoney
-GitHub Pages

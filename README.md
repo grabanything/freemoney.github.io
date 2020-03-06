@@ -1,2 +1,2 @@
-# freemoney
+# myblog
 GitHub Pages
